@@ -38,7 +38,7 @@ public class Main {
             zaehler++;
         }
 
-        System.out.println("Es gibt "+ zaehler + " gültige Wege");
+        System.out.println("Es gibt "+ zaehler + " gültige Wege für das Haus des Nikolaus.");
 
         //System.out.println(hdn.istRundWeg("AEDCBACEB"));
 
